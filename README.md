@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pranay</h1>
-<p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I investigate production incidents, write root cause analyses and translate between engineers and Tier-1 bank clients. Moving into Business Analyst roles.</p>
+<p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I investigate production incidents, write root cause analyses and translate between engineers and Tier-1 bank clients. </p>
 
 <div align="center">
   <a href="mailto:pranay.bathija25@gmail.com">Email</a> •
@@ -10,11 +10,11 @@
 
 ## About Me
 
-- Application Support Engineer at Baton Systems since Dec 2024, working with Tier-1 bank clients including JPMorgan, Citi, HSBC and Goldman Sachs
+- Application Support Engineer at Baton Systems since Dec 2024, working with Tier-1 bank clients. 
 - Support live financial infrastructure processing $20–30B in daily settlements
 - Day to day: root cause analysis, requirements gathering, runbooks and SLA reporting
-- BBA in Marketing & Business Management, St. Joseph's College of Commerce, Bengaluru (2024)
-- Based in Chennai, India, open to Business Analyst roles
+- BBA , St. Joseph's College of Commerce, Bengaluru (2024)
+- Based in Chennai, India
 
 ---
 
