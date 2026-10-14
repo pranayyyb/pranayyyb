@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="mailto:pranay.bathija25@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/pranaybathija">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/pranay-bathija-246312214/">LinkedIn</a>
 </div>
 
 <br>
@@ -60,6 +60,6 @@ My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resu
 ## 📫 Contact
 
 - Email: pranay.bathija25@gmail.com
-- LinkedIn: [Link](https://linkedin.com/in/pranaybathija)
+- LinkedIn: [Link](https://www.linkedin.com/in/pranay-bathija-246312214/)
 
 <p align="center">Open to Business Analyst roles in FinTech and financial operations. Feel free to reach out!</p>
