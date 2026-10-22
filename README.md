@@ -50,7 +50,7 @@ Spotted that weekly alert reporting and RCA drafting were manual and repetitive,
 A personal lifestyle tracking app built with Claude Code, bringing daily health and fitness habits into one simple tool.
 `Claude Code` `Product Design`
 
-**[Olist E-Commerce Sales & Customer Analysis](https://github.com/pranayyyb/olist-ecommerce-sales-analysis)**
+**[E-Commerce Sales & Customer Analysis](https://github.com/pranayyyb/olist-ecommerce-sales-analysis)**
 
 SQL analysis of ~100,000 orders from a Brazilian e-commerce marketplace, answering the questions a business or operations team would ask: what sells, who buys, how they pay, whether they come back and how fast orders arrive. Found that only 3.1% of customers ever ordered again and that deliveries took 12.6 days against 23.7 promised, and turned that into business recommendations.
 `SQL` `SQLite` `Data Analysis`
