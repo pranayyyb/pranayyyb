@@ -11,7 +11,7 @@
 ## About Me
 
 - Application Support Engineer at Baton Systems since Dec 2024, working with Tier-1 bank clients. 
-- Support live financial infrastructure processing $20–30B in daily settlements
+- Support live financial infrastructure processing daily settlements
 - Day to day: root cause analysis, requirements gathering, runbooks and SLA reporting
 - BBA , St. Joseph's College of Commerce, Bengaluru (2024)
 - Based in Chennai, India
