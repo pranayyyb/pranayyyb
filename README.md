@@ -1,5 +1,5 @@
 <h1 align="center">Pranay Bathija</h1>
-<p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I investigate production incidents, write root cause analyses and translate between engineers and Tier-1 bank clients. </p>
+<p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I turn client pain points into requirements, process fixes and automated internal workflows. Moving into Product.</p>
 
 <div align="center">
   <a href="https://pranayyyb.github.io/portfolio/">Portfolio</a> •
@@ -13,7 +13,8 @@
 
 - Application Support Engineer at Baton Systems since Dec 2024, working with Tier-1 bank clients. 
 - Support live financial infrastructure processing daily settlements
-- Day to day: root cause analysis, requirements gathering, runbooks and SLA reporting
+- Day to day: voice of the customer for bank clients, requirements and user stories, root cause analysis and process fixes
+- Built a Claude-assisted workflow, adopted team-wide, that cut weekly alert reporting and RCA drafting from ~12 hours to under 1 hour
 - BBA , St. Joseph's College of Commerce, Bengaluru (2024)
 - Based in Chennai, India
 
@@ -22,21 +23,32 @@
 ## 🧰 Toolkit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana" alt="cloud and devops"/>
-  <img src="https://skillicons.dev/icons?i=sqlite,postman,git,github,vscode" alt="data and tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,githubactions,grafana" alt="cloud and monitoring"/>
+  <img src="https://skillicons.dev/icons?i=postman,git,github" alt="tools"/>
 </div>
 
 <br>
 
-- **Business Analysis:** Requirements Gathering, User Story Writing, Gap Analysis, Root Cause Analysis, Process Documentation
+- **Product:** Requirements Gathering, User Stories, Prioritisation, Gap Analysis, Root Cause Analysis, A/B Testing, Process Design
 - **Stakeholder Management:** Client Communication, Cross-functional Coordination, Executive Reporting, Escalation Handling, SLA Management
-- **FinTech Domain:** Post-Trade Settlements, Collateral Management, Trading Workflows, Financial Infrastructure, Incident Lifecycle
-- **Tools:** JIRA, Confluence, Excel, Grafana, Kibana, TeamCity, Claude Code
-- **Marketing & Analytics:** Google Analytics 4, Meta Ads Manager, A/B Testing, Canva
+- **Data & Analytics:** Excel, Google Analytics 4, Meta Ads Manager, Grafana, Kibana
+- **Domain:** Post-Trade Settlements, Collateral Management, FX Settlement, Trading Workflows
+- **Technical:** AWS, Kubernetes/EKS, CI/CD, Postman, Git/GitHub, Claude Code
+- **Tools:** Jira, Confluence, Canva
 
 ---
 
 ## 📂 Projects
+
+**HUR & RCA Automation** · at work
+
+Spotted that weekly alert reporting and RCA drafting were manual and repetitive, and designed a Claude workflow with an automated data scraper across Confluence, Jira and Slack that produces both. Adopted team-wide, cutting reporting from ~12 hours to under 1 hour a week.
+`Claude` `Confluence` `Jira` `Slack` `Process Design`
+
+**Daily Tracking App** · personal
+
+A personal lifestyle tracking app built with Claude Code, bringing daily health and fitness habits into one simple tool.
+`Claude Code` `Product Design`
 
 **[Olist E-Commerce Sales & Customer Analysis](https://github.com/pranayyyb/olist-ecommerce-sales-analysis)**
 
@@ -45,7 +57,7 @@ SQL analysis of ~100,000 orders from a Brazilian e-commerce marketplace, answeri
 
 **[Retro Desktop Portfolio](https://pranayyyb.github.io/portfolio/)** · [code](https://github.com/pranayyyb/portfolio)
 
-My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resume with PDF download, a terminal for browsing my skills, and a game of Snake.
+My portfolio as a Windows XP-style desktop: draggable windows, a Word-style resume with PDF download, a terminal for browsing my skills, and a game of Snake.
 `React` `Vite` `CSS`
 
 ---
@@ -64,4 +76,4 @@ My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resu
 - Email: pranay.bathija25@gmail.com
 - LinkedIn: [Link](https://www.linkedin.com/in/pranay-bathija-246312214/)
 
-<p align="center">Open to Business Analyst roles in FinTech. Always happy to chat.</p>
+<p align="center">Open to Product roles in FinTech. Always happy to chat.</p>
