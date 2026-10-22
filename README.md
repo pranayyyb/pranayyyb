@@ -2,6 +2,7 @@
 <p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I investigate production incidents, write root cause analyses and translate between engineers and Tier-1 bank clients. </p>
 
 <div align="center">
+  <a href="https://pranayyyb.github.io/portfolio/">Portfolio</a> •
   <a href="mailto:pranay.bathija25@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/pranay-bathija-246312214/">LinkedIn</a>
 </div>
@@ -42,9 +43,9 @@
 SQL analysis of ~100,000 orders from a Brazilian e-commerce marketplace, answering the questions a business or operations team would ask: what sells, who buys, how they pay, whether they come back and how fast orders arrive. Found that only 3.1% of customers ever ordered again and that deliveries took 12.6 days against 23.7 promised, and turned that into business recommendations.
 `SQL` `SQLite` `Data Analysis`
 
-**[Retro Desktop Portfolio](https://github.com/pranayyyb/portfolio)**
+**[Retro Desktop Portfolio](https://pranayyyb.github.io/portfolio/)** · [code](https://github.com/pranayyyb/portfolio)
 
-My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resume with PDF download, and a terminal for browsing my skills.
+My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resume with PDF download, a terminal for browsing my skills, and a game of Snake.
 `React` `Vite` `CSS`
 
 ---
@@ -59,6 +60,7 @@ My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resu
 
 ## 📫 Contact
 
+- Portfolio: [pranayyyb.github.io/portfolio](https://pranayyyb.github.io/portfolio/)
 - Email: pranay.bathija25@gmail.com
 - LinkedIn: [Link](https://www.linkedin.com/in/pranay-bathija-246312214/)
 
