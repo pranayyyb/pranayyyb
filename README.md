@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pranay</h1>
+<h1 align="center">Pranay Bathija</h1>
 <p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I investigate production incidents, write root cause analyses and translate between engineers and Tier-1 bank clients. </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 <br>
 
-## About Me
+## 👋 About
 
 - Application Support Engineer at Baton Systems since Dec 2024, working with Tier-1 bank clients. 
 - Support live financial infrastructure processing daily settlements
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚒️ Skills & Tools
+## 🧰 Toolkit
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana" alt="cloud and devops"/>
@@ -31,12 +31,12 @@
 - **Business Analysis:** Requirements Gathering, User Story Writing, Gap Analysis, Root Cause Analysis, Process Documentation
 - **Stakeholder Management:** Client Communication, Cross-functional Coordination, Executive Reporting, Escalation Handling, SLA Management
 - **FinTech Domain:** Post-Trade Settlements, Collateral Management, Trading Workflows, Financial Infrastructure, Incident Lifecycle
-- **Tools:** JIRA, Confluence, Excel, Kibana, TeamCity, Claude Code
+- **Tools:** JIRA, Confluence, Excel, Grafana, Kibana, TeamCity, Claude Code
 - **Marketing & Analytics:** Google Analytics 4, Meta Ads Manager, A/B Testing, Canva
 
 ---
 
-## 🔭 Selected Projects
+## 📂 Projects
 
 **[Olist E-Commerce Sales & Customer Analysis](https://github.com/pranayyyb/olist-ecommerce-sales-analysis)**
 
@@ -50,7 +50,7 @@ My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resu
 
 ---
 
-## 🏆 Achievements
+## 🏅 Highlights
 
 - National eSports Athlete of the Year, 2019 and 2020: one of fewer than 10 players in India recognised in both years
 - 1st place, Inter-Collegiate Marketing Fest (all Bengaluru colleges): live campaign strategy and pitch
@@ -58,10 +58,10 @@ My portfolio as a Windows 98-style desktop: draggable windows, a Word-style resu
 
 ---
 
-## 📫 Contact
+## ✉️ Get in touch
 
 - Portfolio: [pranayyyb.github.io/portfolio](https://pranayyyb.github.io/portfolio/)
 - Email: pranay.bathija25@gmail.com
 - LinkedIn: [Link](https://www.linkedin.com/in/pranay-bathija-246312214/)
 
-<p align="center">Open to Business Analyst roles in FinTech and financial operations. Feel free to reach out!</p>
+<p align="center">Open to Business Analyst roles in FinTech. Always happy to chat.</p>
