@@ -1,5 +1,5 @@
-<h1 align="center">Pranay Bathija</h1>
-<p align="center">Application Support Engineer at Baton Systems, a FinTech post-trade settlements platform. I turn client pain points into requirements, process fixes and automated internal workflows. Moving into Product.</p>
+<h1 align="center">Hey, I'm Pranay</h1>
+<p align="center">Application Support Engineer in FinTech · moving into Product</p>
 
 <div align="center">
   <a href="https://pranayyyb.github.io/portfolio/">Portfolio</a> •
